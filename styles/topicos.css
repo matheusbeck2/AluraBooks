@@ -17,9 +17,9 @@
     margin: 2em 0.5em;
 }
 .topicos__link{
-    color:var(--branco);
+    color: var(--branco);
     padding: 1em;
-    backgroud-color: var(--laranja);
+    background-color: var(--laranja);
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
